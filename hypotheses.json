@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "A multi-modal AI grading system incorporating cross-validation, confidence thresholds, and continuous calibration can achieve grading accuracy statistically indistinguishable from expert human graders across diverse assessment types."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]
